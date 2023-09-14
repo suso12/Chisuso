@@ -35,7 +35,7 @@ I'm excited to connect with fellow data enthusiasts, sports fans, or anyone eage
 
 ## Connect with Me 🌠💬
 
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)](http://www.linkedin.com/in/chisuso-eresia-eke)
+- LinkedIn: [[My LinkedIn Profile](http://www.linkedin.com/in/chisuso-eresia-eke)]
 - Email: chisusoe.eke@gmail.com
 - GitHub: [https://github.com/chisuso](https://github.com/chisuso)
 

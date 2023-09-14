@@ -19,12 +19,12 @@ Hello! I'm a data enthusiast with a passion for demystifying complex issues thro
 
 ## Highlights from Included Reposetories ✨📊
 
-### 1. NBA Insights 🏀📊
+### 1. [NBA Insights](https://github.com/Chisuso/NBA-PLAYERS-AND-TEAMS-)🏀📊
 - Dive into the world of NBA players for the 2022-23 season.
 - Explore age distribution trends and uncover the secrets behind the league's dynamics.
 - Recognize the leading scorers with the highest points per game (PPG)
 
-### 2. F1 Chronicles 🏎️📊
+### 2. [F1 Chronicles](https://github.com/Chisuso/Formula-1-Drivers-Analysis--Project-1) 🏎️📊
 - Embark on journeys through the career stats of Formula 1 legends, including race victories, podium finishes, and championships.
 - Relive iconic duels between drivers across eras and the legendary teams they've represented.
 

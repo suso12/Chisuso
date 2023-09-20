@@ -3,9 +3,14 @@
 ![Alt Text](https://media.tenor.com/IQ6Z-aPhr1wAAAAM/date-everywhere-data.gif)
 ## About Me 👩🏾‍💻💖
 
-Hello! I'm a data enthusiast with a passion for demystifying complex issues through the power of data analysis. My primary focus at the moment lies in unraveling the intricate narratives within the dynamic realms of NBA 🏀 and F1 🏁. On my GitHub profile, you'll discover a collection of projects dedicated to data-driven exploration.
+Hello! I'm a data enthusiast with a passion for demystifying complex issues through the power of data analysis. My primary focus at the moment is on unraveling the intricate narratives within HR data using the Employee Insights Dashboard project. In addition, I enjoy exploring data from the worlds of NBA 🏀 and F1 🏁.
 
 ## What Awaits You Here ✨
+
+### Employee Insights Dashboard 🏢📈
+- Gain insights into real-world implications for organizations like yours.
+- Discover the power of data analysis using descriptive and inferential statistics.
+- Explore automated interpretations of the data, making it accessible and actionable.
 
 ### NBA and F1 Data Insights 🏆📈
 - Explore insightful analyses uncovering stories within NBA players and F1 drivers.
@@ -18,13 +23,16 @@ Hello! I'm a data enthusiast with a passion for demystifying complex issues thro
 - Explore Python scripts and Jupyter notebooks showcasing the art of data analysis.
 
 ## Highlights from Included Reposetories ✨📊
+### 1. [Employee Insights](https://github.com/Chisuso/Employee-HR-Data) 🏢📈 
+   - Analyze employee satisfaction, productivity, and tenure with the power of data.
+   - Explore detailed data interpretations, deduction, and recommendations for actionable insights within HR data.
 
-### 1. [NBA Insights](https://github.com/Chisuso/NBA-PLAYERS-AND-TEAMS-)🏀📊
+### 2. [NBA Insights](https://github.com/Chisuso/NBA-PLAYERS-AND-TEAMS-)🏀📊
 - Dive into the world of NBA players for the 2022-23 season.
 - Explore age distribution trends and uncover the secrets behind the league's dynamics.
 - Recognize the leading scorers with the highest points per game (PPG)
 
-### 2. [F1 Chronicles](https://github.com/Chisuso/Formula-1-Drivers-Analysis--Project-1) 🏎️📊
+### 3. [F1 Chronicles](https://github.com/Chisuso/Formula-1-Drivers-Analysis--Project-1) 🏎️📊
 - Embark on journeys through the career stats of Formula 1 legends, including race victories, podium finishes, and championships.
 - Relive iconic duels between drivers across eras and the legendary teams they've represented.
 

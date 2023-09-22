@@ -1,6 +1,8 @@
 # Welcome 😶‍🌫️🌟
 
 ![Alt Text](https://media.tenor.com/IQ6Z-aPhr1wAAAAM/date-everywhere-data.gif)
+
+![Alt Text](https://media3.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
 ## About Me 👩🏾‍💻💖
 
 Hello! I'm a data enthusiast with a passion for demystifying complex issues through the power of data analysis. My primary focus at the moment is on unraveling the intricate narratives within HR data as can be seen in the Employee Insights Dashboard project. In addition, I enjoy exploring data from the worlds of NBA 🏀 and F1 🏁.

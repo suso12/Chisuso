@@ -5,6 +5,8 @@
 
 Hello! I'm a data enthusiast with a passion for demystifying complex issues through the power of data analysis. My primary focus at the moment is on unraveling the intricate narratives within HR data as can be seen in the Employee Insights Dashboard project. In addition, I enjoy exploring data from the worlds of NBA 🏀 and F1 🏁.
 
+Also, feel free to check out my [Tableau](https://public.tableau.com/app/profile/chisuso.e.eke) for some cool dashboards and visualizations!!
+
 ## What Awaits You Here ✨
 
 ### Employee Insights Dashboard 🏢📈

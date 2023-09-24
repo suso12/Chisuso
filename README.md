@@ -11,12 +11,12 @@ Also, feel free to check out my [Tableau](https://public.tableau.com/app/profile
 
 ## What Awaits You Here ✨
 
-### Employee Insights Dashboard 🏢📈
+### [Employee Insights Project](https://github.com/Chisuso/Employee-HR-Data)  🏢📈
 - Gain insights into real-world implications for organizations like yours.
 - Discover the power of data analysis using descriptive and inferential statistics.
 - Explore automated interpretations of the data, making it accessible and actionable.
 
-### NBA and F1 Data Insights 🏆📈
+### [NBA Insights Project](https://github.com/Chisuso/NBA-PLAYERS-AND-TEAMS-) 🏆📈
 - Explore insightful analyses uncovering stories within NBA players and F1 drivers.
 - Gain fascinating insights into your favorite athletes and the intricacies of their sports.
 - Dive into data trends, correlations, and patterns that shape these athletic worlds.
